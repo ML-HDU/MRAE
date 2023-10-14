@@ -35,7 +35,7 @@ The dataset with '.mat' format is used in this program. The dataset is divided i
 	'test_label.mat':  testing label saved in the variable 'TV_T' in which each row is a sample.
 We provide the MNIST and Fashion-MNIST as examples. For MNIST dataset, you should first download the original data files into the folder './datasets/MNIST/'. Then, the MATLAB program in "./datasets/MNIST/my_formatting.m" can help you derive the four files 'train_data.mat', 'train_label.mat', 'test_data.mat' and 'test_label.mat'.
 
-The algorithms can be coducted by opening "my_main_with_fixed_parameters.py" and running it, where the hyper-parameters can be also set/modified in this files.
+The algorithms can be conducted by opening "my_main_with_fixed_parameters.py" and running it, where the hyper-parameters can be also set/modified in this file.
 
 ## License
 MIT
